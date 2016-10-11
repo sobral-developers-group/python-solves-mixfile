@@ -1,3 +1,3 @@
 #Telegram discurssion codes
 
-This repository is for scripts, challengers and others things from telegram group
+Problem's solution discussed on GNU/Linux UFC Group telegram https://telegram.me/gnulinuxufc

@@ -1,0 +1,4 @@
+zutano@bol.com:designer
+cicrano@yahoo.com:developer
+fulano@gmail.com:tester
+beltrano@live.com:gerente
